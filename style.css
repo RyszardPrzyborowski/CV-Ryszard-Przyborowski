@@ -1,0 +1,138 @@
+body {
+    background: #f5f7fc;
+    font-family: "Montserrat", sans-serif;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px 0px #0000001a;
+}
+
+aside
+{background: #1e2939;
+    width: 370px;
+}
+.cv-photo {
+    margin-top: 25px;
+}
+.contakt-links {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+.bold {
+    font-weight: 700;
+}
+.header-secondery {
+    color: #ffffff;
+}
+.contakt-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+.tech-skills {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.soft-skills {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.wolontariat {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.hobby {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.list-secondary {
+    color: #fb6d3a;
+    line-height: 24px;
+    font-size: 14px;
+    margin-left: 0;
+    margin-right: 40px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.list-secondary-iten {
+    color: #ffffff;
+}
+main {
+    padding-top: 102px;
+    padding-bottom: 102px;
+    padding-left: 88px;
+    padding-right: 88px;
+    margin-bottom: 40px;
+}
+.main-description {
+    width: 400px;
+}
+.FM {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+.description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.list-primary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.list-primary-iten {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+.header-primery {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+.highlight {
+    color: #fb6d3a;
+}
+
+.jop-position {
+    font-weight: 700;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    font-size: 16px;
+    line-height: 20px;
+}
+.jop-date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+.jop-list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 0;
+    list-style-position: inside;
+}
